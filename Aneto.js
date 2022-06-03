@@ -15,25 +15,7 @@ var gl_shp = ee.FeatureCollection("users/remote_jorge/Aneto2020"),
           [0.6611660214171877, 42.645074783276755]]], null, false);
 /***** End of imports. If edited, may not auto-convert in the playground. *****/
 //  --- Set center in study area
-Map.setCenter(0.64855, 42.63825, 15); //Esto define donde se visualiza el mapa. Ir a la zona de estudio y 
-//                                      con Inspector obtener las coordenadas del centro de la zona de interés 
-//                                      (Point) y ponerlas dentro.
-
-// --- PASOS  ------------------------------------------------------------------------------------------------------
-
-// Pdf detallado:
-// https://drive.google.com/file/d/1mdPYhViUmv4bWOhWJtorrP-g0J9lHZOB/view?usp=sharing
-
-// 1 --- Cargar shapefile de glaciar de estudio
-
-// En Assets > New > Shapefile > Importante cargar todos los archivos del shapefile (.shp, .shx. prj...)
-// Una vez el shp aparece en Assets, darle a la flecha de la derecha para introdcirlo en el  código.
-// Lo renombramos como gl_shp para que se carge en las funciones del código.
-
-// 2 --- Crear geometría ROI (Region Of Interest)
-
-// Al lado de Geometry Imports (en el mapa) seleccionams el rectángulo y dibujamos la zona que queramos 
-// ver en RGB. La renombramos como ROI para que se cargue en las funciones del código.
+Map.setCenter(0.64855, 42.63825, 15); //
 
 
 // --- FUNCTIONS  --------------------------------------------------------------------------------------------------------------
