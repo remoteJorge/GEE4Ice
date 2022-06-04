@@ -2,8 +2,8 @@
 Google Earth Engine scripts for Snow/Ice dynamics over Greenland and Pyrenees
 
 Some applications:
- - Anual NDSI evolution
- - Snow/Ice % masking 
- - Clip NDSI snow/ice cover
+ - Average daily NDSI for snow cover areas chart
+ - Snow/Ice % masking & chart evolution
+ - Clip NDSI to snow/ice cover
  - Export NDSIs to Drive
  - ...
