@@ -1,5 +1,5 @@
 # GEE4Ice
-Google Earth Engine scripts (Sentinel-2) for Snow/Ice dynamics over Greenland and Pyrenees 
+Google Earth Engine scripts (S2_SR) for Snow/Ice dynamics over Greenland and Pyrenees 
 
 Some applications:
  - Average NDSI for snow cover areas chart
