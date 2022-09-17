@@ -5,5 +5,5 @@ Some applications:
  - Average NDSI for snow cover areas chart
  - Snow/Ice % masking & chart evolution
  - Clip NDSI to snow/ice cover
- - Export RGB/NDSIs to Drive
- - ...
+ - Export RGB/NDSIs as GeoTIFF
+ 
